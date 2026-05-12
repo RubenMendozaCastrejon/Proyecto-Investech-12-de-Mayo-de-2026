@@ -26,4 +26,3 @@ Las entidades con sus atributos y tipo en forma de tabla para cada una de las en
 <img width="600" height="759" alt="image" src="https://github.com/user-attachments/assets/11c38603-52f7-4d31-a4d3-4f593fc8a734" />
 <img width="594" height="635" alt="image" src="https://github.com/user-attachments/assets/c2c956e4-6007-4e72-bed5-2078440414b0" />
 <img width="593" height="334" alt="image" src="https://github.com/user-attachments/assets/f351c83b-c5ce-417a-902d-fb2cbddc8e60" />
-<img width="1440" height="11396" alt="image" src="https://github.com/user-attachments/assets/544260d7-f49e-4c20-95ed-3f33175e95ba" />
