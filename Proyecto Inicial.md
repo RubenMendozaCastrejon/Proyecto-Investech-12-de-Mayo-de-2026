@@ -17,6 +17,7 @@ Algunas consideraciones de diseño relevantes para esta base:
 - `PERFIL_RIESGO` debe versionar sus registros, no sobreescribirlos, por requisitos regulatorios.
 
 Las entidades con sus atributos y tipo en forma de tabla para cada una de las entidades
+
 <img width="671" height="738" alt="image" src="https://github.com/user-attachments/assets/2d9725f6-4553-443c-855a-a1a3bf30dece" />
 <img width="667" height="694" alt="image" src="https://github.com/user-attachments/assets/83f12fb0-caab-49fe-8cfa-f98cc9f22f8d" />
 <img width="594" height="402" alt="image" src="https://github.com/user-attachments/assets/d7146266-cdab-4952-9ea6-bd15b5d0d776" />
