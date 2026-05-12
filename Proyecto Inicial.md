@@ -15,3 +15,6 @@ Algunas consideraciones de diseño relevantes para esta base:
 - `PRECIO_HISTORICO` crecerá muy rápido; conviene particionarla por `fecha` desde el inicio.
 - `EJECUCION` y `TRANSACCION` son candidatas a almacenamiento append-only (sin updates) para mantener el audit trail.
 - `PERFIL_RIESGO` debe versionar sus registros, no sobreescribirlos, por requisitos regulatorios.
+
+Las entidades con sus atributos y tipo en forma de tabla para cada una de las entidades
+<img width="1440" height="11346" alt="image" src="https://github.com/user-attachments/assets/188f5ec9-d4e0-4f19-a9f1-daf6053b80b6" />
