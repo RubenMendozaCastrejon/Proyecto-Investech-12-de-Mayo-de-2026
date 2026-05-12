@@ -17,4 +17,11 @@ Algunas consideraciones de diseño relevantes para esta base:
 - `PERFIL_RIESGO` debe versionar sus registros, no sobreescribirlos, por requisitos regulatorios.
 
 Las entidades con sus atributos y tipo en forma de tabla para cada una de las entidades
-<img width="1440" height="11346" alt="image" src="https://github.com/user-attachments/assets/188f5ec9-d4e0-4f19-a9f1-daf6053b80b6" />
+<img width="671" height="738" alt="image" src="https://github.com/user-attachments/assets/2d9725f6-4553-443c-855a-a1a3bf30dece" />
+<img width="667" height="694" alt="image" src="https://github.com/user-attachments/assets/83f12fb0-caab-49fe-8cfa-f98cc9f22f8d" />
+<img width="594" height="402" alt="image" src="https://github.com/user-attachments/assets/d7146266-cdab-4952-9ea6-bd15b5d0d776" />
+<img width="593" height="396" alt="image" src="https://github.com/user-attachments/assets/0b7e34ac-d63a-4d80-b272-e8b12e079f38" />
+<img width="594" height="741" alt="image" src="https://github.com/user-attachments/assets/f6afaf7c-0839-42c1-861b-6982292eb618" />
+<img width="600" height="759" alt="image" src="https://github.com/user-attachments/assets/11c38603-52f7-4d31-a4d3-4f593fc8a734" />
+<img width="594" height="635" alt="image" src="https://github.com/user-attachments/assets/c2c956e4-6007-4e72-bed5-2078440414b0" />
+<img width="593" height="334" alt="image" src="https://github.com/user-attachments/assets/f351c83b-c5ce-417a-902d-fb2cbddc8e60" />
