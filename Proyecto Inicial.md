@@ -18,11 +18,4 @@ Algunas consideraciones de diseño relevantes para esta base:
 
 Las entidades con sus atributos y tipo en forma de tabla para cada una de las entidades
 
-<img width="671" height="738" alt="image" src="https://github.com/user-attachments/assets/2d9725f6-4553-443c-855a-a1a3bf30dece" />
-<img width="667" height="694" alt="image" src="https://github.com/user-attachments/assets/83f12fb0-caab-49fe-8cfa-f98cc9f22f8d" />
-<img width="594" height="402" alt="image" src="https://github.com/user-attachments/assets/d7146266-cdab-4952-9ea6-bd15b5d0d776" />
-<img width="593" height="396" alt="image" src="https://github.com/user-attachments/assets/0b7e34ac-d63a-4d80-b272-e8b12e079f38" />
-<img width="594" height="741" alt="image" src="https://github.com/user-attachments/assets/f6afaf7c-0839-42c1-861b-6982292eb618" />
-<img width="600" height="759" alt="image" src="https://github.com/user-attachments/assets/11c38603-52f7-4d31-a4d3-4f593fc8a734" />
-<img width="594" height="635" alt="image" src="https://github.com/user-attachments/assets/c2c956e4-6007-4e72-bed5-2078440414b0" />
-<img width="593" height="334" alt="image" src="https://github.com/user-attachments/assets/f351c83b-c5ce-417a-902d-fb2cbddc8e60" />
+<img width="1440" height="11396" alt="image" src="https://github.com/user-attachments/assets/544260d7-f49e-4c20-95ed-3f33175e95ba" />
